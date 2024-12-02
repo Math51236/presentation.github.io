@@ -1,0 +1,53 @@
+nav{
+position: fixed;
+padding: -10px;
+margin-left: -99px;
+margin-top: -24px;
+
+li{
+list-style-type: none;
+background: gray;
+width: 310px;
+height: 30px;
+text-align: center;
+margin-top: 0px;
+display: inline-block;
+float: left;
+padding: 35px;
+}
+
+a{
+font-size: 25px;
+color: white;
+text-decoration: none;
+line-height: 30px;
+}
+
+li:hover a{
+text-decoration: underline;
+}
+}
+
+a
+{
+text-decoration: none;
+color: black;
+}
+
+li{
+	margin-left: 0px;
+}
+
+body{
+	font-family: Poppins;
+	height: 12000px;
+	
+}
+body{
+background-image: url();
+background-size: cover;
+background-attachment: fixed;
+padding-left: 50px;
+}
+
+
